@@ -1,0 +1,12 @@
+.header{
+    font-size: large;
+    text-align: center;
+}
+.container{
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+}
+.button{
+    background-color: red;
+}

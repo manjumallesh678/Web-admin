@@ -1,0 +1,20 @@
+.navbar{
+    height: 50px;
+    background-color: rgb(76, 175, 80);
+}
+.icon{
+    margin-left: 20px;
+    width: 25px;
+}
+.header{
+    font-size: 30px;
+    text-align: center;
+}
+.link{
+    list-style-type: none;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    font-size: large;
+    font-weight: 600;
+}
